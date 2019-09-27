@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Minha Vida Financeira</string>
+    <string name="principal_activity_calcular_prestacoes">Calcular Prestações</string>
+    <string name="principal_activity_valor_futuro">Valor Futuro</string>
+    <string name="principal_activity_sobre">Sobre</string>
+    <string name="calcular_prestacoes_n_de_meses">Nº de meses</string>
+    <string name="calcular_prestacoes_taxa_juros_mensal">Taxa de juros mensal</string>
+    <string name="calcular_prestacoes_valor_financiado">Valor financiado</string>
+    <string name="calcular_prestacoes_valor_das_prestacoes">Valor das prestações</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="btn_limpar">Limpar</string>
+    <string name="valor_futuro_n_de_meses">Nº de meses</string>
+    <string name="valor_futuro_taxa_juros_mensal">Taxa de juros mensal</string>
+    <string name="valor_futuro_capital_atual">Capital atual</string>
+    <string name="valor_futuro_valor_obtido_ao_final">Valor obtido ao final</string>
+    <string name="sobre_aplicativo_minha_vida_financeira">Aplicativo Minha Vida Financeira</string>
+    <string name="sobre_descricao">Este aplicativo é baseado na Calculadora do Cidadão fornecida
+        pelo BCB - Banco Central do Brasil. \n\nAs metodologias dos cálculos podem ser acessadas
+        diretamente no site. \n\nO objetivo é ajudar as pessoas a melhorar  sua educação financeira.</string>
+</resources>
